@@ -13,6 +13,6 @@ public class BallBehaviour : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // dodamy nowe funkcje
     }
 }
